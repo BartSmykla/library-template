@@ -1,0 +1,22 @@
+{
+    "include": [
+      "src/**/*.js"
+    ],
+    "exclude": [
+      "src/**/*.spec.js",
+      "src/**/index.js"
+    ],
+    "reporter": [
+      "html",
+      "text"
+    ],
+    "sourceMap": false,
+    "extension": [
+      ".jsx",
+      ".js"
+    ],
+    "cache": true,
+    "all": true,
+    "check-coverage": false,
+    "report-dir": "./coverage"
+  }
