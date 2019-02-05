@@ -23,7 +23,7 @@
     "jsdom-global": "^3.0.2",
     "leche": "^2.2.1",
     "mocha": "^3.5.0",
-    "nyc": "^11.1.0",
+    "nyc": "^13.2.0",
     "rollup": "^0.50.0",
     "rollup-plugin-commonjs": "^8.2.0",
     "rollup-plugin-node-resolve": "^3.0.0"
